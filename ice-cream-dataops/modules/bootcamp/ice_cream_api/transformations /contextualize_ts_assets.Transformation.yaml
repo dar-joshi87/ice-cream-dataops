@@ -6,9 +6,8 @@ destination:
     externalId: CogniteCore
     version: v1
     destinationType: CogniteTimeSeries
-  instanceSpace: icapi_dm_space
   type: instances
-ignoreNullFields: true
+  ignoreNullFields: true
 isPublic: true
 conflictMode: upsert
 # Specify credentials separately like this:
