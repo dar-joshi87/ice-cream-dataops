@@ -7,7 +7,7 @@ destination:
     version: v1
     destinationType: CogniteTimeSeries
   type: instances
-  ignoreNullFields: true
+ignoreNullFields: true
 isPublic: true
 conflictMode: upsert
 # Specify credentials separately like this:
